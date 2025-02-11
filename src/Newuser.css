@@ -124,14 +124,14 @@
 
    .form{
     background: linear-gradient(rgba(212, 118, 25, 0.5), rgba(232, 236, 239, 0.5)),
-    url('../src/image/appimg4.jpg');
+    url('image/appimg4.jpg');
     height: 130vh;
     opacity: 0.9;  
     background-size: cover;   
     gap: 8px; 
     background-color: rgba(26, 122, 217, 0.5);
     z-index: 1;
-    /* background-attachment: fixed; */
+    
   }
   
 
